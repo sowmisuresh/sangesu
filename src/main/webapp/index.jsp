@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2> Welcome into devops traine </h2>
+<h2> Hello  </h2>
 </body>
 </html>
